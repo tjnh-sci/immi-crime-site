@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "My Immigration & Crime: An International Perspective"
+  page-navigation: true
+  sidebar:
+    title: Content
+    style: "docked"
+    contents:
+      - text: Home
+        file: index.qmd
+      - text: Introduction
+        file: introduction.qmd
+      - text: Figure 2a Data
+        file: fig2a.qmd
+      - text: Figure 2a
+        file: plot2a.qmd
+      - text: Problems2a
+        file: problems2a.qmd
+      - text: Figure 2b Data
+        file: fig2b.qmd
+      - text: Figure 2b
+        file: plot2b.qmd
+      - text: Problems2b
+        file: problems2b.qmd
+      - text: Figure 4 Data
+        file: fig4.qmd
+      - text: Figure 4
+        file: plot4.qmd
+      - text: Problems4
+        file: problems4.qmd
+      - text: Conclusion
+        file: conclusion.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
