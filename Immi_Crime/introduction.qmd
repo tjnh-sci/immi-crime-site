@@ -1,0 +1,7 @@
+---
+title: "Introduction"
+bibliography: references.bib
+csl: "https://www.zotero.org/styles/apa"
+---
+
+This presentation is an reproducibility project of looking at two graphs from the paper Immigration and Crime: An International Perspective by the authors Olivier Marie and Paolo Pinotti [@marie2024]
